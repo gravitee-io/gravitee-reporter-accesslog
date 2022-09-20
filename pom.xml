@@ -42,7 +42,7 @@
 
 		<freemarker.version>2.3.31</freemarker.version>
 		<jackson-dataformat-msgpack.version>0.8.22</jackson-dataformat-msgpack.version>
-		<commons-validator.version>1.6</commons-validator.version>
+		<commons-validator.version>1.7</commons-validator.version>
         <!-- Property used by the publication job in CI-->
         <publish-folder-path>graviteeio-apim/plugins/reporters</publish-folder-path>
 	</properties>
